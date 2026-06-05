@@ -1,0 +1,14 @@
+
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+
+*.wav
+*.mp3
+*.m4a
+*_notes.md
+
+.DS_Store
+.vscode/
